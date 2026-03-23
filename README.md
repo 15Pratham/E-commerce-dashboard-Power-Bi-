@@ -25,23 +25,30 @@ Ecommerce_Sales_Data_2024_2025.csv – Dataset
 <img width="823" height="694" alt="image" src="https://github.com/user-attachments/assets/7ef6deea-62f6-4275-b471-3f214ae4f146" />
 
 📊 Key Insights
-Identified top-performing products contributing the highest revenue
-Analyzed region-wise sales to highlight high-growth areas
-Observed monthly and yearly sales trends for better forecasting
-Gained insights into customer purchasing patterns
+Identified top-performing products contributing the highest revenue   
+Analyzed region-wise sales to highlight high-growth areas   
+Observed monthly and yearly sales trends for better forecasting       
+Gained insights into customer purchasing patterns      
+
 ⚙️ How to Use
+
 Download the .pbix file from this repository
 Open it using Power BI Desktop
 Explore the dashboard using filters and visuals
+
 🎯 Learning Outcomes
+
 Developed skills in data visualization and storytelling
 Learned data cleaning and transformation using Power Query
 Created calculated measures using DAX
 Designed interactive and user-friendly dashboards
+
 📌 Future Improvements
+
 Integration with real-time data sources
 Advanced analytics using machine learning
 Enhanced dashboard UI/UX
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.

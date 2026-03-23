@@ -1,15 +1,19 @@
 📊 E-Commerce Sales Dashboard (Power BI)
+
 📌 Overview
 
 This project presents an interactive E-Commerce Sales Dashboard built using Power BI. It provides meaningful insights into sales performance, customer behavior, and product trends, enabling data-driven decision-making.
 
 🚀 Features
+
 * 📈 Sales and profit analysis
 * 🛍️ Category-wise and product-wise performance
 * 🌍 Region-wise sales insights
 * 📅 Monthly and yearly trend analysis
 * 🔍 Interactive filters and slicers for dynamic exploration
-* 🛠️ Tools & Technologies
+ 
+🛠️ Tools & Technologies
+
 Power BI
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
@@ -22,6 +26,7 @@ Ecommerce_Sales_Data_2024_2025.csv – Dataset
 <img width="823" height="694" alt="image" src="https://github.com/user-attachments/assets/7ef6deea-62f6-4275-b471-3f214ae4f146" />
 
 📊 Key Insights
+
 * Identified top-performing products contributing the highest revenue   
 * Analyzed region-wise sales to highlight high-growth areas   
 * Observed monthly and yearly sales trends for better forecasting       
